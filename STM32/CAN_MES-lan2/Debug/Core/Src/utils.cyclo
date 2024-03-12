@@ -1,0 +1,7 @@
+../Core/Src/utils.c:12:7:convertRawToTemperature	1
+../Core/Src/utils.c:17:7:convertRawToSpeed	1
+../Core/Src/utils.c:22:7:convertRawToFuel	1
+../Core/Src/utils.c:27:5:extractIntegerPart	1
+../Core/Src/utils.c:31:5:extractIntegerPart2	1
+../Core/Src/utils.c:36:5:extractDecimalPart	1
+../Core/Src/utils.c:48:5:extractDecimalPart2	1

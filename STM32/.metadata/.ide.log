@@ -1,0 +1,70 @@
+2024-03-11 21:27:45,571 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-11 21:28:40,654 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 596617136 Bytes (898629632)
+2024-03-11 21:28:41,978 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 615967616 Bytes (898629632)
+2024-03-11 21:28:46,851 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 645327744 Bytes (898629632)
+2024-03-11 21:28:47,023 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-03-11 21:28:47,023 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-03-11 21:28:47,023 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-03-11 21:28:47,023 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-03-11 21:28:47,023 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-03-11 21:28:47,024 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-03-11 21:28:47,228 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\license.tmp_save
+2024-03-11 21:28:47,323 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\license.tmp
+2024-03-11 21:28:47,355 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\gpio.tmp_save
+2024-03-11 21:28:47,462 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\gpio.tmp
+2024-03-11 21:28:47,519 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\stm32f3xx_it.c_save
+2024-03-11 21:28:47,655 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\stm32f3xx_it.c
+2024-03-11 21:28:47,663 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\stm32f3xx_it.h_save
+2024-03-11 21:28:47,718 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\stm32f3xx_it.h
+2024-03-11 21:28:47,730 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\stm32f3xx_hal_msp.c_save
+2024-03-11 21:28:47,829 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\stm32f3xx_hal_msp.c
+2024-03-11 21:28:47,836 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\system.tmp_save
+2024-03-11 21:28:47,900 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\system.tmp
+2024-03-11 21:28:47,915 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\stm32f3xx_hal_conf.h_save
+2024-03-11 21:28:47,984 [INFO] CodeEngine:335 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\stm32f3xx_hal_conf.h
+2024-03-11 21:28:48,013 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\main.h_save
+2024-03-11 21:28:48,085 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\main.h
+2024-03-11 21:28:48,094 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\main.c_save
+2024-03-11 21:28:48,181 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\main.c
+2024-03-11 21:28:48,809 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 224mS.
+2024-03-11 21:28:48,812 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-03-11 21:28:48,998 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-03-11 21:28:50,565 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1752mS.
+2024-03-11 21:28:50,566 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-03-11 21:28:50,570 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-03-11 21:29:59,560 [INFO] Gpio:277 - dependency for GPIO [RCC, SPI2, SYS]
+2024-03-11 21:36:01,153 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-11 21:36:01,229 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-11 21:36:09,904 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 741739000 Bytes (1010827264)
+2024-03-11 21:36:27,630 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 761057480 Bytes (1010827264)
+2024-03-11 21:36:30,290 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 344629880 Bytes (1010827264)
+2024-03-11 21:36:30,500 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-03-11 21:36:30,500 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-03-11 21:36:30,500 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-03-11 21:36:30,500 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-03-11 21:36:30,500 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-03-11 21:36:30,502 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-03-11 21:36:30,693 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\license.tmp_save
+2024-03-11 21:36:30,748 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\license.tmp
+2024-03-11 21:36:30,773 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\gpio.tmp_save
+2024-03-11 21:36:30,826 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\gpio.tmp
+2024-03-11 21:36:30,877 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\stm32f3xx_it.c_save
+2024-03-11 21:36:30,937 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\stm32f3xx_it.c
+2024-03-11 21:36:30,944 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\stm32f3xx_it.h_save
+2024-03-11 21:36:30,999 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\stm32f3xx_it.h
+2024-03-11 21:36:31,011 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\stm32f3xx_hal_msp.c_save
+2024-03-11 21:36:31,088 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\stm32f3xx_hal_msp.c
+2024-03-11 21:36:31,093 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\system.tmp_save
+2024-03-11 21:36:31,146 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\MXTmpFiles\system.tmp
+2024-03-11 21:36:31,159 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\stm32f3xx_hal_conf.h_save
+2024-03-11 21:36:31,248 [INFO] CodeEngine:335 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\stm32f3xx_hal_conf.h
+2024-03-11 21:36:31,273 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\main.h_save
+2024-03-11 21:36:31,334 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Inc\main.h
+2024-03-11 21:36:31,341 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\main.c_save
+2024-03-11 21:36:31,422 [INFO] CodeEngine:279 - Generated code: C:\Users\User\Documents\MingJun\STM32\MCP2515_100324\Core\Src\main.c
+2024-03-11 21:36:32,078 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 213mS.
+2024-03-11 21:36:32,082 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-03-11 21:36:32,283 [INFO] ConfigFileManager:1495 - The Die is : DIE439
+2024-03-11 21:36:33,640 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1557mS.
+2024-03-11 21:36:33,640 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-03-11 21:36:33,644 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.

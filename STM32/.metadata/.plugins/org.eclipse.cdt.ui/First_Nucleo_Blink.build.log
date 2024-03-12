@@ -1,0 +1,10 @@
+09:26:05 **** Incremental Build of configuration Debug for project First_Nucleo_Blink ****
+make -j8 all 
+arm-none-eabi-size  First_Nucleo_Blink.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10356	     20	   1708	  12084	   2f34	First_Nucleo_Blink.elf
+Finished building: default.size.stdout
+ 
+
+09:26:05 Build Finished. 0 errors, 0 warnings. (took 483ms)
+

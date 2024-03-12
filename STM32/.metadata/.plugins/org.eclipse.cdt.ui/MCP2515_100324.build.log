@@ -1,0 +1,10 @@
+10:44:17 **** Incremental Build of configuration Debug for project MCP2515_100324 ****
+make -j8 all 
+arm-none-eabi-size  MCP2515_100324.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14212	     20	   1716	  15948	   3e4c	MCP2515_100324.elf
+Finished building: default.size.stdout
+ 
+
+10:44:17 Build Finished. 0 errors, 0 warnings. (took 511ms)
+
